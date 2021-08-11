@@ -1,0 +1,22 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+allure-*
+cypress-combined-report.json
+
+# Dependency directories
+node_modules/
+jspm_packages/
+Test-Reports/
+cypress/reports/
+cypress/results/
+cypress/screenshots/
+cypress/vidoes/
+cypress/report/
+htmlreport/
+results*
+test-results/

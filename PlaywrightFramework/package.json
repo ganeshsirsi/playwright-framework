@@ -1,0 +1,24 @@
+{
+  "name": "playwrightframework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.13.1",
+    "allure-commandline": "^2.13.8",
+    "allure-playwright": "^2.0.0-beta.11",
+    "experimental-allure-playwright": "0.0.3",
+    "htmlreport4jest": "^2.4.1",
+    "jest": "^27.0.6",
+    "jest-html-reporter": "^3.4.1",
+    "mochawesome-merge": "^4.2.0",
+    "playwright-core": "^1.13.1",
+    "xunit-viewer": "^7.1.5"
+  },
+  "dependencies": {}
+}
