@@ -9,15 +9,15 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@playwright/test": "^1.13.1",
+    "@playwright/test": "^1.15.2",
     "allure-commandline": "^2.13.8",
-    "allure-playwright": "^2.0.0-beta.11",
+    "allure-playwright": "^2.0.0-beta.13",
     "experimental-allure-playwright": "0.0.3",
     "htmlreport4jest": "^2.4.1",
-    "jest": "^27.0.6",
+    "jest": "^27.2.5",
     "jest-html-reporter": "^3.4.1",
     "mochawesome-merge": "^4.2.0",
-    "playwright-core": "^1.13.1",
+    "playwright-core": "^1.15.2",
     "xunit-viewer": "^7.1.5"
   },
   "dependencies": {}
